@@ -4,11 +4,14 @@ KEMT El Monte Airport for MSFS
 Created by: Eaglepilot6 
 A product of VTOL Aviation: https://sites.google.com/view/vtol-aviation/home (updated website coming soon)
 
-The inaugural airport to celebrate the formation of VTOL Aviation is KEMT El Monte Airport! Located in Los Angeles County, California, KEMT is a Class D airport operating just outside the LAX Class B. KEMT is overwhelmingly a General Aviation airport, with over 97,000 GA operations in & out of the airport each year. El Monte is home to several flight schools, as well as the Aero Association of Caltech.
+The inaugural airport to celebrate the formation of VTOL Aviation is KEMT El Monte Airport! Located in Los Angeles County, California, KEMT is a Class D airport operating just outside the LAX Class B. 
+KEMT is overwhelmingly a General Aviation airport, with over 97,000 GA operations in & out of the airport each year. El Monte is home to several flight schools, as well as the Aero Association of Caltech.
 
-This airport is free to use and always will be, no matter what additional edits I make. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport. Please do NOT upload elsewhere without my permission. In order to ensure that people get the best quality freeware, I'm handling releases in a very particular way to ensure that it's easiest for me to manage hotfixes. Once a period of time has past, I'll begin uploading to other sites.
+This airport is free to use and always will be, no matter what additional edits we make. If you use this airport in a stream or other creative media, all we ask is to receive credit for the airport. 
+Please do NOT upload elsewhere without our permission. In order to ensure that people get the best quality freeware, we are handling releases in a very particular way to ensure that it's easiest for us to
+ manage hotfixes. Once a period of time has past, we'll begin uploading to other sites.
 
-Current version: v1.0 Image previews here: TBD
+Current version: v1.0 Image previews here: https://imgur.com/a/D29E8UF
 
 INSTALLATION INSTRUCTIONS
 
